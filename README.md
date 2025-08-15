@@ -1,5 +1,5 @@
 # Hi 👋, I'm Fatima Firdouse
-🌱 An aspiring AI&DS Engineering Student from India 🌏 
+🌱 Engineering Student | Aspiring AI & Software Developer from India 🌏
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=fatima-firdouse&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
