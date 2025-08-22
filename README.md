@@ -7,7 +7,7 @@
 - 📖 I’m currently learning Machine Learning, NLP, and Advanced DSA  
 - 🛠 Working on *practice projects* in Python, AI, and Web Development  
 - 🧩 Exploring concepts in *AI, Data Science, and Problem Solving*  
-- 💬 Ask me about *Python basics, HTML, CSS, JavaScript, and beginner AI*  
+- 💬 Ask me about *Python, HTML, CSS, JavaScript, and beginner AI*  
 - 🎯 My goal: To become a skilled AI Engineer 🚀  
 - 📫 How to reach me: *fatimakhan91828@gmail.com*  
 
